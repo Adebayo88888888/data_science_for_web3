@@ -1,3 +1,3 @@
 Data science for web3, including Machine learning and deep learning approaches
 
-Consist of 14 chapters
+Consist of 14 chapters...
